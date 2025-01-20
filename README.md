@@ -1,5 +1,6 @@
 # Langchain RAG Pipeline
 
+![RAG Pipeline](<RAG Pipeline.jpg>)
 ## Configure environment
 
 Update variables in .env file

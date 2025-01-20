@@ -34,7 +34,7 @@ python rag-data.py
 Query the Chroma DB.
 
 ```python
-python query_data.py "How does Alice meet the Mad Hatter?"
+python query_data.py "What was my mood last Monday?"
 ```
 
 > This is an iteration of the pixegami [Langchain RAG Tutorial](https://github.com/pixegami/langchain-rag-tutorial/tree/main) 
